@@ -14,12 +14,14 @@ header {
     background-color: #e579e6;
     height: 60px;
 }
+
 /* yellow section*/
 #top{
     background-color: #e1d67a;
     height: 210px;
     margin: 20px 0;
 }
+
 /* orizzontal lightblue section*/
 #orizzontal{
     background-color: #abcfe7;
@@ -32,6 +34,7 @@ header {
     clear: both;
     display: table;
   }
+
 /* left lightblue section*/
   #first{
      background-color:#abcfe7;
@@ -51,6 +54,7 @@ header {
     border-left: 12px solid #0086ff;
     border-right: 12px solid #0086ff;
   }
+
 /* right lightblue section*/
   #second{
     background-color: #abcfe7;
@@ -59,6 +63,7 @@ header {
     width: 15%;
     float: left;
   }
+
 /* violett footer*/
   footer{
     background-color: #8801fe;
