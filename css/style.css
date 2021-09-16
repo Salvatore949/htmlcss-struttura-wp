@@ -14,13 +14,13 @@ header {
     background-color: #e579e6;
     height: 60px;
 }
-
+/* yellow section*/
 #top{
     background-color: #e1d67a;
     height: 210px;
     margin: 20px 0;
 }
-
+/* orizzontal lightblue section*/
 #orizzontal{
     background-color: #abcfe7;
     height: 40px;
@@ -32,7 +32,7 @@ header {
     clear: both;
     display: table;
   }
-
+/* left lightblue section*/
   #first{
      background-color:#abcfe7;
      border-bottom: 12px solid #0086ff;
@@ -41,7 +41,7 @@ header {
      float: left;
      
   }
-
+/* central lightblue section*/
   #central{
     background-color: #abcfe7;
     height: 220px;
@@ -51,7 +51,7 @@ header {
     border-left: 12px solid #0086ff;
     border-right: 12px solid #0086ff;
   }
-
+/* right lightblue section*/
   #second{
     background-color: #abcfe7;
     border-bottom: 12px solid #0086ff;
@@ -59,7 +59,7 @@ header {
     width: 15%;
     float: left;
   }
-
+/* violett footer*/
   footer{
     background-color: #8801fe;
     height: 35px;
